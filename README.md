@@ -33,7 +33,7 @@ To set up and run this project locally, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/passbox.git
+git clone https://github.com/RohithGYadav/passbox.git
 2. Navigate to the Project Directory
 cd passbox
 
